@@ -1,6 +1,6 @@
 using ASM_Day11.DTO;
 using ASM_Day11.Entities;
-using ASM_Day11.Interface;
+using ASM_Day11.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ASM_Day11.Controllers

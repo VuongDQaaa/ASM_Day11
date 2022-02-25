@@ -1,7 +1,7 @@
 using ASM_Day11.DTO;
 using ASM_Day11.Entities;
 
-namespace ASM_Day11.Interface
+namespace ASM_Day11.Interfaces
 {
     public interface IProductService
     {

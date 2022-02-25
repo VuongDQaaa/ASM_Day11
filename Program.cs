@@ -1,5 +1,5 @@
 using ASM_Day11.DB;
-using ASM_Day11.Interface;
+using ASM_Day11.Interfaces;
 using ASM_Day11.Services;
 using Microsoft.EntityFrameworkCore;
 
